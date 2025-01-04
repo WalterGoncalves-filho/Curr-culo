@@ -4,7 +4,7 @@ Brasileiro, Solteiro 18 anos <br>
 Endereço: Rua Aninga N°256 <br>
 69007-200, Distrito Industrial 2, Manaus-Am <br>
 Fone: (92) 99452-4605 / (92) 98598-4088  <br>
-E-mail: waltergoncalves.bfilho@gmail.com
+E-mail: waltergoncalves.bfilho@gmail.com <br>
 
 
 ## OBJETIVO
