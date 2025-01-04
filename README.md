@@ -40,8 +40,11 @@ E-mail: waltergoncalves.bfilho@gmail.com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white&)](mailto:waltergoncalves.bfilho@gmail.com)
 [![CIEE](https://img.shields.io/badge/CIEE-8A2BE2?)](https://web.ciee.org.br/Festudante/controle-acesso)
 [![IEL Am](https://img.shields.io/badge/IEL_Am-blue?)](https://admin-carreiras.am.iel.org.br/logincandidato.aspx)
-[![Static Badge](https://img.shields.io/badge/ManPower-Group-orange?style=flat&logoColor=blue&logoSize=amg&labelColor=blue)](https://vagas.manpowergroup.com.br/)
-[![Static Badge](https://img.shields.io/badge/Gupy.io-black?style=flat&logoColor=dark&logoSize=amg&labelColor=dark)](https://portal.gupy.io/)
+[![ManPowerGroup](https://img.shields.io/badge/ManPower-Group-orange?style=flat&logoColor=blue&logoSize=amg&labelColor=blue)](https://vagas.manpowergroup.com.br/)
+[![Gupy.io](https://img.shields.io/badge/Gupy.io-black?style=flat&logoColor=dark&logoSize=amg&labelColor=dark)](https://portal.gupy.io/)
+
+[![Static Badge](https://img.shields.io/badge/ITD-AM-blue%20?labelColor=%2335BACE&color=%2398A631)
+](https://www.trimonte.org.br/)
 
 
 
