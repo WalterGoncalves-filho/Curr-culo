@@ -4,7 +4,7 @@ Brasileiro, Solteiro 18 anos <br>
 Endereço: Rua Aninga N°256 <br>
 69007-200, Distrito Industrial 2, Manaus-Am <br>
 Fone: (92) 99452-4605 / (92) 98598-4088  <br>
-E-mail: waltergoncalves.bfilho@gmail.com <br>
+E-mail: waltergoncalves.bfilho@gmail.com
 
 
 ## OBJETIVO
@@ -39,12 +39,17 @@ E-mail: waltergoncalves.bfilho@gmail.com <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waltergoncalvesfilho)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white&)](mailto:waltergoncalves.bfilho@gmail.com)
 [![CIEE](https://img.shields.io/badge/CIEE-8A2BE2?)](https://web.ciee.org.br/Festudante/controle-acesso)
-[![IEL Am](https://img.shields.io/badge/IEL_Am-blue?)](https://admin-carreiras.am.iel.org.br/logincandidato.aspx)
+[![IEL Am](https://img.shields.io/badge/IEL-AM-blue%20?labelColor=rgb(4%2C%2070%2C%20157)&color=inactive)
+](https://admin-carreiras.am.iel.org.br/logincandidato.aspx)
 [![ManPowerGroup](https://img.shields.io/badge/ManPower-Group-orange?style=flat&logoColor=blue&logoSize=amg&labelColor=blue)](https://vagas.manpowergroup.com.br/)
 [![Gupy.io](https://img.shields.io/badge/Gupy.io-black?style=flat&logoColor=dark&logoSize=amg&labelColor=dark)](https://portal.gupy.io/)
-[![Static Badge](https://img.shields.io/badge/ITD-AM-blue%20?labelColor=%2335BACE&color=%2398A631)
+[![ITD AM](https://img.shields.io/badge/ITD-AM-blue%20?labelColor=%2335BACE&color=%2398A631)
 ](https://www.trimonte.org.br/)
 
-
-
 </div>
+
+<!-- https://github.com/badges/shields/tree/6e803367e0f3c8e0cc4196a700af37fac1629f4d/badge-maker
+        CORES DOS IMBLEMAS
+    
+    https://img.shields.io ->  SITE DE CRIAÇÃO DOS IBLEMAS-->
+
